@@ -17,7 +17,7 @@ namespace SCPList
 				return;
 			}
 
-			displayBroadcast = Config.GetBool("scplist_broadcasst", false);
+			displayBroadcast = Config.GetBool("scplist_broadcast", false);
 
 			try
 			{
