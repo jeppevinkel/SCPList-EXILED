@@ -1,0 +1,6 @@
+# SCPList
+
+## Commands
+```
+.scplist
+```
